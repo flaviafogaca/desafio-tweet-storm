@@ -10,17 +10,20 @@ um tipo de tweet storm.
 <ul>
   <li>O projeto deve ser elaborado com Typescript :heavy_check_mark:</li> 
   <li>O projeto deve quebrar o texto em blocos menores de até 140 caracteres considerando a paginação como parte do texto :heavy_check_mark:</li>
-  <li>O projeto deve quebrar o texto em blocos menores de até 140 caracteres considerando a paginação como parte do texto para qualquer tamanho de texto :heavy_check_mark:</li>
+  <li>O projeto deve quebrar o texto em blocos menores de até 140 caracteres considerando a paginação como parte do texto para qualquer tamanho de texto :x:</li>
   <li>O projeto deve colocar paginação em todos os seus tweets, indicando sempre no seguinte formato: [PÁGINA ATUAL]/[TOTAL DE PÁGINAS] :heavy_check_mark:</li>
   <li> O projeto deve ser validado por testes automatizados :x:</li>
 </ul>
 
 ### ✍ Sugestão de melhoria:
 
-O projeto criado funciona para posts comuns de usuários, limitando as frase em 130 caracteres e reservando 10 caracteres para a paginação. Para atender posts eventuais que tenham grande número de páginas, sugere-se a criação de uma função que possa reservar um espaço para paginação de acordo com o tamanho do texto.
+O projeto criado funciona para posts comuns de usuários, limitando as frases em 130 caracteres e reservando 10 caracteres para a paginação. Para atender posts que tenham grande número de páginas, será necessário a criação de uma função que possa reservar espaço para textos maiores. 
 
 ### Tecnologias utilizadas 
 
+<ul>
+    <li>Typescript
+</ul>
 ---
 
 <p align="center">
