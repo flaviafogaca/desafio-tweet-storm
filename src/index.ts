@@ -6,7 +6,7 @@
 - função para a numeração da paginação contar dentro dos 140 caracteres
 */
 
-// Passo 1: Declarar a mensagem (tweet)
+// Passo 1: Declarar o texto (tweet)
 const msg = 'Um resumo é uma apresentação concisa de pontos relevantes de um conteúdo. O resumo simples é um texto que não ultrapassa uma página, destacando os assuntos principais do documento original. Já um resumo expandido é uma versão mais longa, que pode ter entre 4 e 5 páginas, contando com os vários aspectos do conteúdo de origem.'
 
 // Passo 2: Criar função para criar array que separa a cada 140 caracteres sem cortar as palavras
