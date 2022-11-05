@@ -27,5 +27,5 @@ O projeto criado funciona para posts comuns de usuários, limitando as frases em
 </ul>
 </br>
 <p align="center">
-  <a href="https://github.com/flaviafogaca" text-decoration: none>Criado por Flávia Fogaça<img src="https://github.githubassets.com/images/icons/emoji/octocat.png"></a>
+  <a href="https://github.com/flaviafogaca">Criado por Flávia Fogaça<img src="https://github.githubassets.com/images/icons/emoji/octocat.png"></a>
 </p>
