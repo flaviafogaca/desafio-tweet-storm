@@ -37,8 +37,8 @@ O projeto criado funciona para posts comuns de usuários, limitando as frases em
 }
 ```
 
-3. No terimnal do editar de código utilizado, rodar o comando `npm run start:dev`
-4. Saída esperada: 
+3. No terimnal do editor de código utilizado, rodar o comando `npm run start:dev`
+4. Saída esperada no terminal: 
 
 ```json
 {
