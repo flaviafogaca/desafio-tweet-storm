@@ -25,6 +25,27 @@ O projeto criado funciona para posts comuns de usuários, limitando as frases em
 <ul>
     <li>Typescript
 </ul>
+
+### 📣 Utilização
+
+1. Entrar no arquvio raíz do projeto: `src/index.ts`.
+2. No arquivo, enserir no campo `const text` o texto desejado e salvar a modificação:
+
+```json
+{
+  "const text = 'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.'"
+}
+```
+
+3. No terimnal do editar de código utilizado, rodar o comando `npm run start:dev`
+4. Saída esperada: 
+
+```json
+{
+ "'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 [1/2]',
+  'BC, making it over 2000 years old.[2/2]'"
+}
+```
 </br>
 <p align="center">
   <a href="https://github.com/flaviafogaca">Criado por Flávia Fogaça<img src="https://github.githubassets.com/images/icons/emoji/octocat.png"></a>
