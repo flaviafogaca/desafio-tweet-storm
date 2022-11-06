@@ -32,9 +32,7 @@ O projeto criado funciona para posts comuns de usuários, limitando as frases em
 2. No arquivo, enserir no campo `const text` o texto desejado e salvar a modificação:
 
 ```json
-{
   const text = 'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.'
-}
 ```
 
 3. No terimnal do editor de código utilizado, rodar o comando `npm run start:dev`
