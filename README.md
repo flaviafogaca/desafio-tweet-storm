@@ -29,7 +29,7 @@ O projeto criado funciona para posts comuns de usuários, limitando as frases em
 ### 📣 Utilização
 
 1. Entrar no arquivo raiz do projeto: `src/index.ts`.
-2. No arquivo, inserir no campo `const text` o texto desejado e salvar a modificação:
+2. No arquivo, inserir no campo `const text = ' '` o texto desejado e salvar a modificação:
 
 ```json
   const text = 'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.'
