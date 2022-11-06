@@ -5,7 +5,7 @@
 Esse projeto consiste em criar uma função que recebe um texto qualquer e o transforme em
 um tipo de tweet storm.
 
-### 📝 Requisitos:
+### 📝 Requisitos
 
 <ul>
   <li>O projeto deve ser elaborado com Typescript :heavy_check_mark:</li> 
@@ -16,7 +16,7 @@ um tipo de tweet storm.
   <li>O projeto deve ser validado por testes automatizados :x:</li>
 </ul>
 
-### ✍ Sugestão de melhoria:
+### ✍ Sugestão de melhoria
 
 O projeto criado funciona para posts comuns de usuários, limitando as frases em 130 caracteres e reservando 10 caracteres para a paginação. Para atender posts que tenham grande número de páginas, será necessário a criação de uma função que possa reservar espaço para textos maiores. 
 

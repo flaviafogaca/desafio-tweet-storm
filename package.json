@@ -5,7 +5,7 @@
   "main": "desafio_zenklub.js",
   "scripts": {
     "start:dev": "nodemon",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --watchAll --coverage"
   },
   "repository": {
     "type": "git",
