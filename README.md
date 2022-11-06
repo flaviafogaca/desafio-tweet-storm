@@ -29,7 +29,7 @@ O projeto criado funciona para posts comuns de usuários, limitando as frases em
 ### 📣 Utilização
 
 1. No terminal do editor de código utilizado, rodar o comando `npm install`
-2. Entrar no arquivo raiz do projeto: `src/index.ts`.
+2. Entrar no arquivo raiz do projeto: `src/index.ts`
 3. No arquivo, inserir no campo `const text = ' '` o texto desejado e salvar a modificação:
 
 ```json
